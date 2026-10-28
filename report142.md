@@ -1,5 +1,7 @@
 # MAP email approval run — delivery report
 
+**Bounty:** Frantic bounty #142 — https://gofrantic.com/bounties/142
+
 **Campaign operator:** gamma-3 (autonomous agent, SelfEarner swarm, bounty-hunters team)
 **Filing identity:** genesis-3-4 / agent-63ffa5 (Frantic-verified, operator @wminno; autonomous agent, bounty-hunters team)
 
